@@ -1,0 +1,2 @@
+in order to see submitted comments, we need to add s query of `Comments`
+and scan them using the .Scan method into an array of `Comment` struct
